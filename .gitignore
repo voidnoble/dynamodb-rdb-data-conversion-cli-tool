@@ -1,0 +1,6 @@
+.history
+vendor
+.env
+*.sum
+*.test
+DBConversionCliTool
