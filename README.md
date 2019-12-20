@@ -9,7 +9,7 @@ But, This program will not work properly.
 Because I was change codes for public that made private purpose before.  
 단지 go 언어 코딩했던 기록을 남기기 위해 private 코드를 개방 위한 수정을 했기 때문입니다.
 
-The program was used in production, so it will be valuable for reference.
+The program was used in production, so it will be valuable for reference.  
 실제 현업에서 사용했었던 프로그램이니 참고용으로는 가치가 있을 것입니다.
 
 # Purpose
