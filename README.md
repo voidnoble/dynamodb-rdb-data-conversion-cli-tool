@@ -1,10 +1,10 @@
 # Notice
 
-This program will not working.
+This program will not working.  
 이 프로그램은 동작하지 않을것입니다.
 
-Because I was change codes for public that made private purpose before.
-단지 go 언어 코딩 기록을 남기기 위해 private 코드를 개방 위해 수정을 가했기 때문입니다.
+Because I was change codes for public that made private purpose before.  
+단지 go 언어 코딩했던 기록을 남기기 위해 private 코드를 개방 위한 수정을 했기 때문입니다.
 
 # Purpose
 
