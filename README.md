@@ -1,7 +1,10 @@
 # Notice
 
-This program will not working.  
-이 프로그램은 동작하지 않을것입니다.
+This repo contains my first golang production code.  
+이 저장소에는 저의 최초 Go 언어 프로덕션 코드가 있습니다.
+
+But, This program will not work properly.  
+하지만, 이 프로그램은 제대로 동작하지 않을것입니다.
 
 Because I was change codes for public that made private purpose before.  
 단지 go 언어 코딩했던 기록을 남기기 위해 private 코드를 개방 위한 수정을 했기 때문입니다.
